@@ -1,0 +1,14 @@
+{
+  "name": "visualRegression",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.13.3",
+    "webdrivercss": "1.1.10",
+    "webdriverio": "2.4.5"
+  }
+}
