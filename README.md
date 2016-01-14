@@ -18,7 +18,7 @@ $ node server.js
 ```
 
 ```
-$ node texts/visual/home.js
+$ node tests/visual/home.js
 ```
 
 #### Admin tool
